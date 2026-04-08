@@ -19,7 +19,7 @@ Les premières minutes d'une disparition sont cruciales. SynerVol vise à accél
 
 Le cœur technologique de SynerVol repose sur une approche **modulaire et embarquée**. Nous utilisons **Yocto Project** pour générer un OS sur mesure et **Docker** pour isoler nos services critiques.
 
-### Projet Phare : [docker_system](./docker_system)
+### Projet Phare : [docker_system](https://github.com/SynerVol/docker_system)
 C'est le dépôt central qui orchestre l'intelligence embarquée du drone Leader. Il regroupe 5 micro-services essentiels :
 
 | Service | Rôle |
@@ -31,7 +31,7 @@ C'est le dépôt central qui orchestre l'intelligence embarquée du drone Leader
 | **Cloudflare Tunnel** | Accès distant sécurisé pour le monitoring en temps réel. |
 
 ### Releases :
-Vous pouvez retrouvez les OS prête à l'emploi [ICI](./releases).
+Vous pouvez retrouvez les OS prête à l'emploi [ICI](https://github.com/SynerVol/releases).
 
 ---
 
