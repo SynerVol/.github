@@ -30,6 +30,9 @@ C'est le dépôt central qui orchestre l'intelligence embarquée du drone Leader
 | **MAVProxy** | Interface de communication avec le contrôleur de vol ArduPilot. |
 | **Cloudflare Tunnel** | Accès distant sécurisé pour le monitoring en temps réel. |
 
+### [Releases :](./releases)
+Vous pouvez retrouvez les OS prète à l'emploi
+
 ---
 
 ## Pipeline de Déploiement
