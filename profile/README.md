@@ -31,7 +31,7 @@ C'est le dépôt central qui orchestre l'intelligence embarquée du drone Leader
 | **Cloudflare Tunnel** | Accès distant sécurisé pour le monitoring en temps réel. |
 
 ### Releases :
-Vous pouvez retrouvez les OS prète à l'emploi [ICI](./releases).
+Vous pouvez retrouvez les OS prête à l'emploi [ICI](./releases).
 
 ---
 
